@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "colorless wind",
+  "base_artist": "結城アイラ",
+  "createdAt": "2026-03-13T14:17:05.243042Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "colorless wind",
+      "artist": "結城アイラ",
+      "has_synced": true,
+      "path": "select/01_colorless_wind_結城アイラ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Colorless Wind",
+      "artist": "Sola - Yuki Aira",
+      "has_synced": true,
+      "path": "select/02_Colorless_Wind_Sola_-_Yuki_Aira.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "colorless wind(off vocal)",
+      "artist": "結城アイラ",
+      "has_synced": true,
+      "path": "select/03_colorless_wind(off_vocal)_結城アイラ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "colorless wind （off vocal）",
+      "artist": "結城アイラ",
+      "has_synced": true,
+      "path": "select/04_colorless_wind_(off_vocal)_結城アイラ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "colorless wind (off vocal)",
+      "artist": "Yuhki Aira",
+      "has_synced": true,
+      "path": "select/05_colorless_wind_(off_vocal)_Yuhki_Aira.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "colorless wind",
+      "artist": "結城アイラ",
+      "has_synced": false,
+      "path": "select/pl_01_colorless_wind_結城アイラ.txt"
+    }
+  ]
+}
